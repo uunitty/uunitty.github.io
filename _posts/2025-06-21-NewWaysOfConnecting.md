@@ -1,3 +1,9 @@
+---
+layout: post
+title: New ways of connecting
+comments: false
+---
+
 # The future is now old man!
 
 I've had multiple accounts in just 10 years. Scattered all across the internet: Mastodon, X, Facebook, Google, YouTube, Instagram, Snapchat, etc. With multiple names, nicknames, my own IRL name, and profile pictures. Some of the time I followed content creators, other times politics, etc. But every time, I deleted these accounts. Every time I went back to square one: not having anything.
