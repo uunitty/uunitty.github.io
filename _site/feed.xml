@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Personal website of Uunitty</title>
+    
+    
+    <description>This is the RSS feed of Uunitty&apos;s website</description>
+    
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>First blog post</title>
+        <description>
+          The beginning is here - 
+          Nothing to see here yet, there is more to come tho!
+
+        </description>
+        <pubDate>Sat, 21 Jun 2025 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2025-06-21-first/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-06-21-first/</guid>
+      </item>
+    
+  </channel>
+</rss>
