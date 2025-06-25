@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Joy of fixing computerr
+title: The Joy of fixing my computers
 comments: false
 ---
 
