@@ -16,6 +16,5 @@ PCs, smartphones, laptops—these devices underpin the modern world. Those who n
 
 That’s it. Open your PC, replace the thermal paste, fix the cooler! You can do it!
 
-
 Peace,
 Uunitty
