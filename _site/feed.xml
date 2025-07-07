@@ -12,6 +12,28 @@
     
     
       <item>
+        <title>I like it here. I think I&apos;ll stay.</title>
+        <description>
+          
+          After being offline for about a month or so and after deleting my old online identities and creating an entirely new one, I can say I like it on X. I like posting on this blog; I like this. I’m not entirely brainrotted like I was before, and I’m not...
+        </description>
+        <pubDate>Fri, 04 Jul 2025 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2025-07-04-ILikeItHere/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-07-04-ILikeItHere/</guid>
+      </item>
+    
+      <item>
+        <title>The Joy of fixing my computers</title>
+        <description>
+          
+          Fix that PC! Every time I have to open up a PC to fix it, it feels like an internal 500 error. I’m convinced I’m going to break something, that it won’t boot again, and that I’ll end up paying hundreds of euros to repair it. But every time, it...
+        </description>
+        <pubDate>Thu, 26 Jun 2025 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2025-06-26-TheJoyOfFixingPCs/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-06-26-TheJoyOfFixingPCs/</guid>
+      </item>
+    
+      <item>
         <title>First blog post</title>
         <description>
           The beginning is here - 
